@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZoomAndPan", "ZoomAndPan\ZoomAndPan.csproj", "{468ADEDE-6F5E-40C0-99C9-C6DAC4FAC934}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedZoomAndPanSample", "AdvancedZoomAndPanSample\AdvancedZoomAndPanSample.csproj", "{120DA64E-D1B0-4D35-96CA-E3986504A1B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfiniteWorkspaceZoomAndPanSample", "InfiniteWorkspaceZoomAndPanSample\InfiniteWorkspaceZoomAndPanSample.csproj", "{348405FA-5AAC-4F8B-BB47-211CAD2294AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleZoomAndPanSample", "SimpleZoomAndPanSample\SimpleZoomAndPanSample.csproj", "{9EAEC72A-FB3D-45B6-8F48-7EDA2242B59F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBindingZoomAndPanSample", "DataBindingZoomAndPanSample\DataBindingZoomAndPanSample.csproj", "{CB29CDA5-7D0C-48A0-94C3-99F200BE985E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{468ADEDE-6F5E-40C0-99C9-C6DAC4FAC934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468ADEDE-6F5E-40C0-99C9-C6DAC4FAC934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468ADEDE-6F5E-40C0-99C9-C6DAC4FAC934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468ADEDE-6F5E-40C0-99C9-C6DAC4FAC934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{120DA64E-D1B0-4D35-96CA-E3986504A1B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120DA64E-D1B0-4D35-96CA-E3986504A1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120DA64E-D1B0-4D35-96CA-E3986504A1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120DA64E-D1B0-4D35-96CA-E3986504A1B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{348405FA-5AAC-4F8B-BB47-211CAD2294AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348405FA-5AAC-4F8B-BB47-211CAD2294AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348405FA-5AAC-4F8B-BB47-211CAD2294AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348405FA-5AAC-4F8B-BB47-211CAD2294AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EAEC72A-FB3D-45B6-8F48-7EDA2242B59F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAEC72A-FB3D-45B6-8F48-7EDA2242B59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAEC72A-FB3D-45B6-8F48-7EDA2242B59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAEC72A-FB3D-45B6-8F48-7EDA2242B59F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB29CDA5-7D0C-48A0-94C3-99F200BE985E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB29CDA5-7D0C-48A0-94C3-99F200BE985E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB29CDA5-7D0C-48A0-94C3-99F200BE985E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB29CDA5-7D0C-48A0-94C3-99F200BE985E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B869B34-7FAB-4D02-8FEC-F08ADEE773D8}
+	EndGlobalSection
+EndGlobal
